@@ -6,7 +6,6 @@
 
 import numpy as np
 import os
-import matplotlib.pyplot as plt
 import random
 from scipy.integrate import quad
 from scipy.interpolate import PchipInterpolator
